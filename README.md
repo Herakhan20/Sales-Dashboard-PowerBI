@@ -36,7 +36,7 @@ Top-performing products identified
 
 Dashboard Preview
 
-![Dashboard](screenshot.png)
+![Dashboard](Screenshot 2026-05-03 131947.png)
 
  Author
 
