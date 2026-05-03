@@ -34,7 +34,9 @@ Category-wise performance comparison
 Top-performing products identified
  Dashboard Preview
 
+Dashboard Preview
 
+![Dashboard](screenshot.png)
 
  Author
 
